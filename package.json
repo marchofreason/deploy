@@ -1,0 +1,13 @@
+{
+  "name": "VueDjango Deployer v1",
+  "version": "1.0.0",
+  "license": "Private",
+  "description": "Hacked together Boilerplate / Scaffold for Vue Django from reliable sources",
+  "scripts": {
+    "docs": "cd docs && gitbook serve",
+    "deploy-docs": "bash ./deploy-docs.sh"
+  },
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}
