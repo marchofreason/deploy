@@ -11,7 +11,10 @@ Use sudo if error with installing the package
 
 ### Clone from our Private Repo
 Go to the path you want to setup the project and then run:
-`vue init marchofreason/deploy projectname --clone`
+
+```
+vue init marchofreason/deploy projectname --clone
+```
 
 Create a Virtual env directory as well
 
