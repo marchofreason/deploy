@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <img class="logo" src="./assets/nfold.png">
+    <img class="logo" src="./assets/logo.png">
+    <img class="logo" src="./assets/dj.png">
     {{#router}}
     <router-view/>
     {{else}}
